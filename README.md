@@ -68,7 +68,13 @@ Toutes ces applications sont en ligne et utilisables gratuitement, sans installa
       <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
       <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://loopstation-beta.vercel.app"><img src="screenshots/loopstation-beta.png" alt="Loopstation"></a>
+      <h3><a href="https://loopstation-beta.vercel.app">Loopstation</a></h3>
+      Une loopstation de beatbox dans le navigateur, inspirée de la RC-505 du GBB : 5 pistes synchronisées, effets en direct, jouable au clavier, au doigt ou avec un pédalier MIDI.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
+    </td>
   </tr>
 </table>
 
