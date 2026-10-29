@@ -76,6 +76,16 @@ Toutes ces applications sont en ligne et utilisables gratuitement, sans installa
       <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://circuit-quest-lemon.vercel.app"><img src="screenshots/circuit-quest.png" alt="Circuit Quest"></a>
+      <h3><a href="https://circuit-quest-lemon.vercel.app">Circuit Quest</a></h3>
+      Un jeu 2D pour apprentis électriciens : 50 niveaux et un bac à sable pour comprendre pourquoi une installation est protégée (disjoncteurs, différentiels, protection des personnes). Sans chrono ni score.<br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ### 🏭 Métier & industrie
