@@ -37,7 +37,13 @@ Toutes ces applications sont en ligne et utilisables gratuitement, sans installa
       <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" alt="Next.js">
       <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://decibulle.vercel.app"><img src="screenshots/decibulle.png" alt="Décibulle"></a>
+      <h3><a href="https://decibulle.vercel.app">Décibulle</a></h3>
+      Une bulle qui grossit avec le bruit et éclate quand c'est trop fort : un sonomètre ludique pour aider les enfants à rester calmes. Le son est analysé sur le téléphone, rien n'est enregistré.<br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
+    </td>
   </tr>
 </table>
 
@@ -83,6 +89,24 @@ Toutes ces applications sont en ligne et utilisables gratuitement, sans installa
       Un jeu 2D pour apprentis électriciens : 50 niveaux et un bac à sable pour comprendre pourquoi une installation est protégée (disjoncteurs, différentiels, protection des personnes). Sans chrono ni score.<br><br>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://super-dice-ruddy.vercel.app"><img src="screenshots/super-dice.png" alt="Super Dés"></a>
+      <h3><a href="https://super-dice-ruddy.vercel.app">Super Dés</a></h3>
+      Un lanceur de dés 3D pour jeux de plateau : d4, d6, d8, d10, d12 et d20, avec une vraie simulation physique. Le résultat est la face qui finit sur le dessus, il n'est pas tiré à l'avance.<br><br>
+      <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=white" alt="Three.js">
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://orbito-zeta.vercel.app"><img src="screenshots/orbito.png" alt="Orbito"></a>
+      <h3><a href="https://orbito-zeta.vercel.app">Orbito</a></h3>
+      Un jeu éducatif pour apprendre à envoyer des fusées vers la Lune, puis vers les planètes, au doigt sur téléphone. Mode Simple dès 6 ans, mode Expert avec vitesses et distances. En français et en anglais.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=white" alt="Three.js">
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
     </td>
     <td width="50%" valign="top"></td>
   </tr>
