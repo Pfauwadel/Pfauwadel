@@ -40,7 +40,7 @@ Toutes ces applications sont en ligne et utilisables gratuitement, sans installa
     <td width="50%" valign="top">
       <a href="https://decibulle.vercel.app"><img src="screenshots/decibulle.png" alt="Décibulle"></a>
       <h3><a href="https://decibulle.vercel.app">Décibulle</a></h3>
-      Une bulle qui grossit avec le bruit et éclate quand c'est trop fort : un sonomètre ludique pour aider les enfants à rester calmes. Le son est analysé sur le téléphone, rien n'est enregistré.<br><br>
+      Un sonomètre ludique pour aider les enfants à rester calmes : au calme, la bulle fait pousser son arbre et gagne des accessoires ; trop de bruit, elle se dégonfle. Le son est analysé sur le téléphone, rien n'est enregistré.<br><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
     </td>
