@@ -108,7 +108,13 @@ Toutes ces applications sont en ligne et utilisables gratuitement, sans installa
       <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=white" alt="Three.js">
       <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://pfauwadel.github.io/FortuneWheel/"><img src="screenshots/fortune-wheel.png" alt="Roue de la Fortune"></a>
+      <h3><a href="https://pfauwadel.github.io/FortuneWheel/">Roue de la Fortune</a></h3>
+      Une roue de la fortune personnalisable pour animer un stand ou un évènement : lots, probabilités, stocks, thèmes de couleurs, sons et confettis, avec une interface d'administration. Installable, elle fonctionne sans connexion.<br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
+    </td>
   </tr>
 </table>
 
