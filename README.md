@@ -116,6 +116,18 @@ Toutes ces applications sont en ligne et utilisables gratuitement, sans installa
       <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="ADRESSE_DU_JEU"><img src="screenshots/ile-du-crane.png" alt="L'Île du Crâne"></a>
+      <h3><a href="ADRESSE_DU_JEU">L'Île du Crâne</a></h3>
+      Un jeu d'aventure et d'escalade en 3D : dans la peau du mousse du <i>Serpent Noir</i>, gravissez une île en forme de crâne à travers neuf zones, entre pièges, énigmes et combats au sabre, jusqu'au secret de l'Encrier. Clavier, manette ou tactile, en français et en anglais.<br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=white" alt="Three.js">
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ### 🏭 Métier & industrie
